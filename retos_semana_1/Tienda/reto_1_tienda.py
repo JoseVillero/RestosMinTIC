@@ -1,4 +1,4 @@
-# Reto 1 materias
+# Reto 1 tienda
 # Realizado por Jose Villero ♠
 
 iva = 0.19
