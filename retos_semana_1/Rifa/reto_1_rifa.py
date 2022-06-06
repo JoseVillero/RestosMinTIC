@@ -1,4 +1,4 @@
-# Reto 1 materias
+# Reto 1 rifa
 # Realizado por Jose Villero ♠
 
 import random
