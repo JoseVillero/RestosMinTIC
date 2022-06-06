@@ -1,3 +1,6 @@
+# Reto 1 materias
+# Realizado por Jose Villero ♠
+
 mensaje = 'The Garden of Earthly Delights'    # Mensaje cualquiera a encriptar
 alfabeto = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'       # Alfabeto base para encriptar
 
