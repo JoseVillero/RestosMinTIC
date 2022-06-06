@@ -1,4 +1,4 @@
-# Reto 1 materias
+# Reto 2 encriptacion_desencriptacion
 # Realizado por Jose Villero ♠
 
 mensaje = 'The Garden of Earthly Delights'    # Mensaje cualquiera a encriptar
